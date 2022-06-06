@@ -1,0 +1,25 @@
+#inputt:focus{
+    border: 4px solid blue;
+}
+#inputt{
+    width: 90%;
+    font-size: 15px;
+    height: 70%;
+    font-family: sans-serif;
+}
+#inputtt{
+    width: 90%;
+    font-size: 15px;
+    height: 70%;
+    font-family: sans-serif;
+}
+#inputtt{
+    width: 100%;
+    font-size: 15px;
+    height: 70%;
+    font-family: sans-serif;
+}
+#select{
+    height:40%;
+    paddingTop:-2%
+}
