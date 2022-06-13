@@ -1,1 +1,0 @@
-/* Bu style yozish uchun */
